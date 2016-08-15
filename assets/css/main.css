@@ -1,3 +1,10 @@
-/* Landing Section */
+/* Landing section */
+#landing{
+	background: url(../img/bg.png) fixed;
+}
+.prof-pic{
+	border: 1px solid transparent;
+	border-radius: 50%;
+}
 
-/* end Landing */
+/* end landing */
