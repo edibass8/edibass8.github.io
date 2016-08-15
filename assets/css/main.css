@@ -1,10 +1,85 @@
 /* Landing section */
 #landing{
-	background: url(bg.png);
+	height: 100vh;
+	font-family: 'Poiret One', cursive;
+	background: url(/assets/img/bg.png) fixed;
+	background-position: center center;
+	background-size: cover;
 }
+.jumbotron{
+	padding-top: 25vh;
+	background: transparent;
+	color: white;
+}
+.jumbotron h1{
+	padding-top: 10px;
+	font-size: 6em;
+}
+.jumbotron p{
+	font-size: 2em;
+}
+.flex{
+	display: flex;
+}
+.two{
+	order: 2;
+}
+.one{
+	padding-left: 15%;
+	order: 1;
+}
+@media screen and (max-width: 650px){
+.jumbotron{
+	padding-left: 15%;
+	padding-top: 10vh;
+	}
+.jumbotron h1{
+	padding-top: 10px;
+	font-size: 3em;
+}
+.jumbotron p{
+	font-size: 1em;
+}
+.flex{
+	display: block;
+}
+.one{
+	padding-left: auto;
+}
+
+	}
+
 .prof-pic{
 	border: 1px solid transparent;
 	border-radius: 50%;
 }
 
 /* end landing */
+
+
+/* content section */
+.content{
+	background-color: #b0a18e;
+}
+.content-real{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding: 50px 20px;
+	background-color: white;
+}
+.content-real h2{
+	font-size: 3em;
+	padding-bottom: 20px;
+}
+.content-real p{
+	font-size: 1.5em;
+	padding: 20px 40px;
+}
+.padLR{
+	margin: 0 10px;
+	color: #b0a18e
+}
+.padLR a{
+	color: #b0a18e
+}
+/* end content */
