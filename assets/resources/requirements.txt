@@ -1,0 +1,21 @@
+A) THINGS NEEDED
+---------------
+
+
+1. HD image as bd
+3. clear personal image
+2. Tagline (opening text)
+3. Short history about me
+4. contact links
+
+
+
+B) THINGS TO DO
+----------------
+
+
+C) TECH NEEDED
+----------------
+1. HTML5
+2. CSS
+3. Bootstrap css
