@@ -1,6 +1,6 @@
 /* Landing section */
 #landing{
-	background: url(../assets/img/bg.png) fixed;
+	background: url(bg.png);
 }
 .prof-pic{
 	border: 1px solid transparent;
