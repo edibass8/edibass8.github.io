@@ -1,4 +1,4 @@
 # edibass8.github.io
 
 
-Found at: `<http://www.edibass8.github.io>`_.
+Found at: `edibass8.github.io <https://edibass8.github.io>`_.
